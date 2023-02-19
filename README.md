@@ -13,3 +13,5 @@ I used pandas, numpy, requests, matplotlib, seaborn, statsmodels, and scikit-lea
 - matplotlib and seaborn were used for data visualization
 - statsmodels was used for the logistic regression model
 - scikit-learn was used for train/test splitting and evaluating the model
+
+The csv file contains the data I collected before I did any analysis.
