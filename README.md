@@ -1,5 +1,5 @@
 # How To Win More Games: Analyzing Rocket League Game Statistics to Improve Player Performance
-This project analyzes what Rocket League players could do better in order to win more games. I gathered over 100,000 rows of 3v3 game data from high level events, from octane.gg's API, zsr.octane.gg. I investigated the difference between winners and losers using exploratory data analysis and visualizations.
+This project analyzes what Rocket League players could do better in order to win more games. I gathered over 100,000 rows of 3v3 game data from high level events, from octane.gg's API: zsr.octane.gg. I investigated the difference between winners and losers using exploratory data analysis and visualizations.
 
 I also created a logistic regression model to predict if a player will win their game based on their scoreline (minus score). For example, using the model in this project, a player with a scoreline of 4,1,1,6 (goals, assists saves, shots) has a 0.97 probabilty of winning the game, and a player with a scoreline of 0,0,0,0 has a 0.27 probability of winning the game.
 
