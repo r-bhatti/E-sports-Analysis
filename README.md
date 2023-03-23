@@ -1,6 +1,6 @@
 # How To Win More Games: Analyzing Rocket League Game Statistics to Improve Player Performance
 
-To view the file, click on the rl-analysis.ipynb file in the repository
+To view the project, click on the rl-analysis.ipynb file in the repository
 
 This project analyzes high-level Rocket League games to determine what Rocket League players could do better in order to win more games. I gathered over 100,000 rows of 3v3 game data from high level events, from octane.gg's API: zsr.octane.gg. I investigated the difference between winners and losers using exploratory data analysis and visualizations.
 
